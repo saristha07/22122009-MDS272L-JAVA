@@ -4,7 +4,9 @@ Class: 2 Msc DS A
 email - angela.scaria@msds.christuniversity.in
 
 
-Lab Exercise Question:
+LAB 2
+
+Exercise Question:
 
 You are supposed to create a menu-driven program that has the following menu options:
 Enter a name
