@@ -24,3 +24,9 @@ Write a JAVA Menu driven program that does the following:
     -To withdraw money
     -To print the transactions
     -To print account summary
+   
+   FLOWCHART:
+   ![lab 4 flowchart](https://user-images.githubusercontent.com/118044665/223921044-15eb345c-081d-4385-be22-b18fed512000.jpg)
+
+
+ 
